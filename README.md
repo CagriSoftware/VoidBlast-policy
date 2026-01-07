@@ -1,0 +1,2 @@
+# VoidBlast-policy
+VoidBlast privacy
